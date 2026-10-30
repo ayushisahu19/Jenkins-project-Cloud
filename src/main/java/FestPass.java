@@ -1,4 +1,3 @@
-//FestPass - campus event registration (by ayushisahu19)
 import java.io.IOException;
 import java.io.PrintStream;
 import java.nio.channels.FileChannel;
