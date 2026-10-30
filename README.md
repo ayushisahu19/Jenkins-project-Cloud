@@ -1,4 +1,6 @@
 # FestPass: campus event registration + Jenkins
+Submission evidence: see [EVIDENCE.md](EVIDENCE.md) and the evidence/ folder.
+
 
 This is a deliberately failing **diagnostic starter**, not a finished submission. It manages
 multiple events, seat limits, student registrations, cancellations, and local
